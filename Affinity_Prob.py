@@ -2,7 +2,7 @@
 """
 Created on Tue May 10 21:49:43 2020
 
-@author: OmerHassan
+@author: OmerMoussa
 """
 
 # this code implements affinity probagation 
